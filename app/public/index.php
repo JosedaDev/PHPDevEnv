@@ -15,8 +15,8 @@
 
 
 echo "INICIO<br>";
-$var=0;
-echo "POSICION ".$var."<br>";
+$var = 0;
+echo "POSICION " . $var . "<br>";
 $var++;
 echo "POSICION " . $var . "<br>";
 $var++;

@@ -10,8 +10,7 @@
    "request": "launch",
    "port": 9003,
    "pathMappings": {
-    "/app/public": "${workspaceRoot}/app/public"
-    // "E:/DATOS JOSEDA/Pruebas/PHPDevEnv/app/public": "/app/public"
+    "/app/public": "${workspaceRoot}"
    }
   }
  ]
